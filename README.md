@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220, 16 November 2021
 
-This exercise is an opportunity for you to experiment with an open source Godot Dialogue add-on called Dialogic. Dialogic has [been relatively recently released](https://dialogic.coppolaemilio.com/)—is it currently at release 1.4. It is still a little buggy around the edges, but it is a powerful system for creating and introducing dialogue systems into your games.
+This exercise is an opportunity for you to experiment with an open source Godot Dialogue add-on called Dialogic. Dialogic has [been relatively recently released](https://dialogic.coppolaemilio.com/)—is it currently at release 1.3. It is still a little buggy around the edges, but it is a powerful system for creating and introducing dialogue systems into your games.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06c-Dialogue. *Edit the LICENSE and replace BL-MSCH-C220-F21 with your full name.* Commit your changes.
 
@@ -59,7 +59,7 @@ An exploration of dialogue systems in Godot using Dialogic.
 
 ## Implementation
  - Built using Godot 3.3.3
- - [Dialogic 1.4](https://github.com/coppolaemilio/dialogic) created by Emilio Coppola.
+ - [Dialogic 1.3](https://github.com/coppolaemilio/dialogic) created by Emilio Coppola.
 
 ## References
 None

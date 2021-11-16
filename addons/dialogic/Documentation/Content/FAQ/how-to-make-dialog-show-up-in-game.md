@@ -1,6 +1,5 @@
-# Enable/start dialog?
+# How can I make a dialog show up in game?
 
-**How can I make a dialog show up in game?**
 There are two ways of doing this; using gdscript or the scene editor.
 
 Using the `Dialogic` class you can add dialogs from code easily:
